@@ -59,6 +59,15 @@ A collection of web development exercises using HTML, CSS, and JavaScript.
 
 ---
 
+### ⌨️ Typing Statistics
+
+[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=devnn&theme=dark&show=wpm15,wpm60,rank60,tests)](https://monkeytype.com/)
+
+**TypingClub**
+
+![TypingClub Progress](https://img.shields.io/badge/TypingClub-445_Levels_Completed-2F80ED?style=flat-square&logo=keyboard&logoColor=white)
+---
+
 ### 📚 Currently Learning
 
 - Advanced Python Programming
