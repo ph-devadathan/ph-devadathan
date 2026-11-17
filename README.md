@@ -60,13 +60,10 @@ A collection of web development exercises using HTML, CSS, and JavaScript.
 ---
 
 
-### ⌨️ Typing Statistics
 
-<!-- MONKEYTYPE-START -->
-Your Monkeytype statistics will appear here automatically.
-<!-- MONKEYTYPE-END -->
+### ⌨️ Monkeytype Statistics
 
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-devnn-black?style=flat-square)](https://monkeytype.com/profile/devnn)
+[![Monkeytype Stats](https://monkeytype-readme-stats.vercel.app/api/monkeytype?username=devnn&theme=dark&show=wpm15,wpm30,wpm60,wpm120,rank60,tests)](https://monkeytype.com/)
 
 
 **TypingClub**
